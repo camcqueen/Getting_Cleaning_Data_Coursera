@@ -1,13 +1,10 @@
-==================================================================
 ##Getting and Cleaning Data Course Project
-Data based on attached script
-==================================================================
 
 Goal: Create a subset of original data in a tidy format that caluclates the average value of any variable pertaining to
 mean or standard deviation by Activity and Subject.
 
-==================================================================
 ##Running the script:
+
 This script will download the data and convert the information into a tidy dataset with limited required changes.
 
 1. This code requires you to have the original data stored in your working directory. 
@@ -41,14 +38,14 @@ This script will download the data and convert the information into a tidy datas
 6. This script subsets the original data set based on ANY variable name from the original dataset containing 
 	"mean" or "std" then averages each variable by Subject and Activity. 
 
-==================================================================
+
 ##Install raw data into your working directory:
 
 NOTE: Use your home directory for optimal use of the script.
 
 HTML raw data location: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip\
 
-==================================================================
+
 ##ORIGINAL DATA SET INFORMATION:
 
 For more information regarding the original dataset, please visit 
