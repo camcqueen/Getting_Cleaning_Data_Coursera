@@ -21,12 +21,16 @@ DATA DICTIONARY - For Final Results
 
 
 Subject
+
 	Participating Subject
+
  		Range 1:30, 30 total participants. 
 
 
 Activity
+
 	Activity monitored. Each subject participated in each activity.
+
 		1. Walking
 		2. Walking Upstairs
 		3. Walking Downstairs
