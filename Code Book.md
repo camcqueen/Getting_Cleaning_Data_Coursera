@@ -1,21 +1,29 @@
-						##CODE BOOK - For Final Results
+##CODE BOOK - For Final Results
 
 **NOTE: This is a subset of the original Samsung Galazy S smartphone activity data. 
 **For information on original dataset, please visit site listed at the bottom of this file.
 
 FILE ARRANGEMENT:
-	Final Results is a wide table listing out each subject by activity.
-		Example: 	Subject	Activity		Varables
-				1	Walking			...
-				1	Walking Upstairs	...
-				...
+Final Results is a wide table listing out each subject by activity.
+
+Example:       
+
+              Subject          Activity             Varables
+
+                1   	        Walking                 ...
+
+                1	        Walking Upstairs        ...
+
+               ...
 
 
 DATA DICTIONARY - For Final Results
 
+
 Subject
 	Participating Subject
-		Range 1:30, 30 total participants. 
+ 		Range 1:30, 30 total participants. 
+
 
 Activity
 	Activity monitored. Each subject participated in each activity.
@@ -26,10 +34,14 @@ Activity
 		5. Standing
 		6. Laying
 
+
 A complete list of the remaining final results dataset variables are listed below. 
 	These variables are a subset from the original data set that related to "mean" or "standard deviation".
+
 	
 These variables were transformed by calulating average value of the original variable by activity and test subject. 
+
+
 		tBodyAcc.mean...X
 		tBodyAcc.mean...Y
 		tBodyAcc.mean...Z
@@ -116,6 +128,8 @@ These variables were transformed by calulating average value of the original var
 		fBodyBodyAccJerkMag.std..
 		fBodyBodyGyroMag.std..
 		fBodyBodyGyroJerkMag.std..		
+
+
 
 *** For more information regarding the original data used to create this subset of data, please visit:
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
