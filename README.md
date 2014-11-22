@@ -8,7 +8,7 @@ mean or standard deviation by Activity and Subject.
 This script will download the data and convert the information into a tidy dataset with limited required changes.
 
 1. This code REQUIRES you to have the original data stored in your working directory.
-	NOTE: If you need to download the raw data, 
+	NOTE: If you need to download the raw data, see "install raw data into your working directory". 
 
 
 2. Throughout the code, "##" denotes comments that explain what each step will do. Each step is both commented before 
