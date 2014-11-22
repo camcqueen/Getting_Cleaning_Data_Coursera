@@ -8,11 +8,7 @@ mean or standard deviation by Activity and Subject.
 This script will download the data and convert the information into a tidy dataset with limited required changes.
 
 1. This code REQUIRES you to have the original data stored in your working directory.
-<<<<<<< HEAD
-  NOTE: If you need to download the raw data, 
-=======
 	NOTE: If you need to download the raw data, 
->>>>>>> cb94ca8c09477560dea55c0d2c158add04836a3a
 
 
 2. Throughout the code, "##" denotes comments that explain what each step will do. Each step is both commented before 
@@ -67,8 +63,6 @@ This original files contain:
 
 - 'train/Inertial Signals/body_acc_x_train.txt': Not used to generate the subset of data. 
 
-<<<<<<< HEAD
 - 'train/Inertial Signals/body_gyro_x_train.txt': Not used to generate the subset of data. 
-=======
-- 'train/Inertial Signals/body_gyro_x_train.txt': Not used to generate the subset of data. 
->>>>>>> cb94ca8c09477560dea55c0d2c158add04836a3a
+
+
