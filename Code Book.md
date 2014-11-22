@@ -1,10 +1,10 @@
-##CODE BOOK - For Final Results
+						##CODE BOOK - For Final Results
 
 **NOTE: This is a subset of the original Samsung Galazy S smartphone activity data. 
 **For information on original dataset, please visit site listed at the bottom of this file.
 
 FILE ARRANGEMENT:
-  Final Results is a wide table listing out each subject by activity.
+	Final Results is a wide table listing out each subject by activity.
 		Example: 	Subject	Activity		Varables
 				1	Walking			...
 				1	Walking Upstairs	...
